@@ -66,6 +66,15 @@ Link koruması — İzinsiz kullanıcı link paylaşırsa mesaj otomatik silinir
 ![image](https://github.com/user-attachments/assets/d162cffd-ddf8-4a16-96d6-535b46682c4f)
 
 
+
+## Lisans ve Teşekkürler
+
+Bu proje **GNU GPLv3** Lisansı ile lisanslanmıştır.
+
+**Furkan Çağatay Korkmaz** tarafından kodlanmış ve yayınlanmıştır.
+
+
+
 #discord-bot
 ENGLİSH
 
@@ -121,4 +130,14 @@ Note: Additionally, when bot.py is executed, the command prompt (CMD) provides r
 
 
 ![image](https://github.com/user-attachments/assets/6cb17933-0fec-49d8-b9db-4a75e31be5e5)
+
+
+
+
+## License & Credits
+
+This project is licensed under the **GNU GPLv3** License.
+
+Coded and published by **Furkan Çağatay Korkmaz**.
+
 
